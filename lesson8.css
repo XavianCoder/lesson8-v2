@@ -1,0 +1,29 @@
+#Apple
+{
+    color: red;
+    background-color: aqua;
+    display: inline-flex;
+    padding: 10px,10px,10px,10px;
+}
+
+#phrase
+{
+    font-style: italic;
+    background-color: black;
+    color: aliceblue;
+    display: inline-flex;
+    font-size: 50px;
+    
+}#Apples
+{
+    font-size: 100px;
+    
+}
+#Copyright
+{
+    padding: 10% 25% 15% 0%;
+    border-top: 15px double red;
+    border-bottom: 20px groove cyan;
+    margin-right: 15%;
+    margin-left: 30%;
+}
